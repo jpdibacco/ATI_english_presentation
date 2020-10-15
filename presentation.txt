@@ -3,3 +3,49 @@ How are you doing?
 My name is Patricio, I am from Argentina, I'm 38 years old.
 I've studied License in Music and Technology in Argentina.
 I work as Freelancer on: Web Developer, App dev, Game developer, etc.
+
+I'm going to talk about a very powerful tool called "Git".
+
+I will start with "What is Git?"
+Then "Why git?"
+and after that "How to use it?" (maybe the right way)
+
+Don't hesite to ask me any questions as we go along.
+
+I will first cover ..... What is Git....
+
+Git is a version-control system for tracking changes in source code during development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. 
+
+As an example:
+You have your "document.txt" file and you start doing some changes on it.
+Instead of calling your file: document-V1.txt, document-V2.txt, etc
+We can have different versions of this file working in the same directory. 
+
+That leads me to my second point... Why Git?
+
+It has Integrity meaning that whatever file you add it will checked for data corruption.
+You can work offline
+Is Open source and FREE.
+Security, git-seekret, git hooks, key features, signatures, etc
+Branches..... (explain the Master, Dev, etc branch)
+
+And that's all I have to say about that.
+
+I will now move on to the last point....
+How ????????
+
+• Modify files in your working directory.
+• Stage files, adding snapshots of them to your staging area.
+• Commit, which takes the files in the staging area and stores
+that snapshot permanently to your Git directory. 
+
+
+This might change according to the tools that you will use. In this example I use the command line or what is call the terminal in linux.
+
+First we need to init the repo, then add the files that we want to include.
+We can track which are the missing files by using "git status"
+Then we commit the changes.
+
+In conclusion, git is a very cranky and powerful tool.
+
+Thank you very much for listening.
