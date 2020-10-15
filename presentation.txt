@@ -46,6 +46,9 @@ First we need to init the repo, then add the files that we want to include.
 We can track which are the missing files by using "git status"
 Then we commit the changes.
 
-In conclusion, git is a very cranky and powerful tool.
+In conclusion, Git provides a way of keeping track of past versions of software and papers,
+making collaboration between various authors easy, and provides backup for your software.
+It has proven very useful to the open-source community and in academia as well.
+
 
 Thank you very much for listening.
